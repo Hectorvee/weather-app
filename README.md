@@ -1,5 +1,3 @@
-Here’s the complete `README.md` file with all the sections included:
-
 # Weather App
 
 A simple weather application built with Python and Tkinter that fetches weather data using the OpenWeatherMap API.
